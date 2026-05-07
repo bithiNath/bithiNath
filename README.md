@@ -30,19 +30,22 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **BI & Visualization**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Environment & Tools**
+**Platforms & Tools**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
+![Notion](https://img.shields.io/badge/Notion-43B02A?style=flat-square&logo=notion&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ---
 
 ## Featured Projects
@@ -62,8 +65,8 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 **Deliverable:** An interactive Tableau dashboard revealing cross-platform trends and pricing gaps for consumer and market strategy use.
 
 [![Narrative Analysis](https://img.shields.io/badge/View-Narrative_Analysis-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Detailedcharts?publish=yes)
-[![Full Dashboard](https://img.shields.io/badge/View-Full_Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Dashboard)
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/E-Grocery-Insights-BD)
+[![Full Dashboard](https://img.shields.io/badge/View-Full_Dashboard-F05032?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Dashboard)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/E-Grocery-Insights-BD)
 
 ---
 
@@ -73,6 +76,17 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 Building a dashboard to monitor **stock volatility**, growth trajectories, and sector-level signals across tech industry equities. Aimed at supporting investment-oriented data storytelling.
 
 ---
+
+### Web Development Projects
+> *HTML · CSS · WordPress · Hostinger*
+> 
+> A collection of responsive websites built from scratch and via WordPress — currently being migrated to GitHub repositories.
+
+- Custom-built static sites using vanilla HTML & CSS
+- WordPress-based sites with custom layout & design using plugins
+- Few projects hosted on **Hostinger**
+> 🚧 Repositories uploading — links coming soon.            
+
 
 ## Currently Learning
 
