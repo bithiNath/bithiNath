@@ -3,6 +3,18 @@
 
 After a rewarding career in Finance and Audit, I am now dedicated to leveraging data to solve complex, cross-domain challenges. I blend my analytical foundation in Economics with a modern technical stack to build scalable, data-driven solutions. My focus is on extracting actionable insights through Data Analytics, while continuously expanding my expertise into advanced modeling and machine learning to solve broader problems..
 
+
+### 🛠️ Technical Stack
+
+![Python](https://img.shields.io/badge/Python-3.13.1-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4.41.0x-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3.0.1-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
 ---
 
 ### 🚀 About Me
@@ -15,16 +27,6 @@ After a rewarding career in Finance and Audit, I am now dedicated to leveraging 
   
 ---
 
-### 🛠️ Technical Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Analytics** | ![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![SQL](https://shields.io) |
-| **Visualization** | ![Tableau](https://shields.io) ![PowerBI](https://shields.io) (Learning) |
-| **Web Development** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JS](https://shields.io) ![WordPress](https://shields.io) |
-| **Development Tools**| ![VS Code](https://shields.io) ![Jupyter](https://shields.io) ![Git](https://shields.io) ![Notion](https://shields.io) |
-
----
 
 ### 📊 Featured Projects
 
