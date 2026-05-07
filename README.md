@@ -30,10 +30,13 @@ After a rewarding career in Finance and Audit, I am now dedicated to leveraging 
 
 ### 📊 Featured Projects
 
-#### 🛒 [Online Grocery Data Pipeline](Your-Link-Here)
-- **Tech:** Selenium, Pandas, NumPy, Tableau.
-- **Goal:** Scraped and analyzed grocery pricing data to find market trends.
-- **Status:** Completed & Visualized on Tableau.
+#### 🛒 [E-Grocery Insights BD: Decoding Product Diversity and Savings in Online Groceries](Your-Link-Here)
+- **Tech:** Python (Selenium), Pandas, NumPy, Tableau.
+- **Impact:** Analyzed 7,197 product listings from Chaldal & Shwapno to uncover brand distribution, promotional savings, offer patterns, and price variance through data-driven analysis and Tableau visualizations.
+- **Outcome:** Developed an interactive Tableau Dashboard showcasing market-level trends and price variances across platforms.
+- **Explore:** [Detailed Graphs (Narrative Analysis)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Detailedcharts?publish=yes) | [Full Dashboard](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Dashboard)
+
+E-Grocery Insights: Decoding Pricing & SavingsTech Stack: Python (Selenium), Pandas, NumPy, Tableau.
 
 #### 📈 [Tech Industry Share Market Analysis](Your-Link-Here)
 - **Tech:** SQL, Power BI (In-Progress).
@@ -54,10 +57,11 @@ After a rewarding career in Finance and Audit, I am now dedicated to leveraging 
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn Profile]
-- 📧 [Your Email]
-- 🌏 [Your Portfolio Website]
+
+## 📬 Contact
+
+- **GitHub:** [@bithiNath](https://github.com/bithiNath)
+- **LinkedIn:** [Bithi Nath](https://linkedin.com/in/bithinath)
 
 ---
 *"Turning Financial Data into Actionable Intelligence."*
