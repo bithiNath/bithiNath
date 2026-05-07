@@ -30,7 +30,7 @@ After a rewarding career in Finance and Audit, I am now dedicated to leveraging 
 
 ### 📊 Featured Projects
 
-#### 🛒 [E-Grocery Insights BD: Decoding Product Diversity and Savings in Online Groceries](Your-Link-Here)
+#### 🛒 E-Grocery Insights BD: Decoding Product Diversity and Savings in Online Groceries [(Your-Link-Here)]
 - **Tech:** Python (Selenium), Pandas, NumPy, Tableau.
 - **Impact:** Analyzed 7,197 product listings from Chaldal & Shwapno to uncover brand distribution, promotional savings, offer patterns, and price variance through data-driven analysis and Tableau visualizations.
 - **Outcome:** Developed an interactive Tableau Dashboard showcasing market-level trends and price variances across platforms.
