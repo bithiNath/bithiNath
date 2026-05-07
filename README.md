@@ -1,67 +1,112 @@
-# Hi there, I'm Bithi Nath 👋
-**Ex-Finance & Internal Audit Professional | Transitioning to Data Science & Analytics**
+<div align="center">
 
-After a rewarding career in Finance and Audit, I am now dedicated to leveraging data to solve complex, cross-domain challenges. I blend my analytical foundation in Economics with a modern technical stack to build scalable, data-driven solutions. My focus is on extracting actionable insights through Data Analytics, while continuously expanding my expertise into advanced modeling and machine learning to solve broader problems..
+# Bithi Nath
+### Data Analyst · Finance & Audit Professional · Economist
 
+*Bridging rigorous financial expertise with modern data science to extract decisions from noise.*
 
-### 🛠️ Technical Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bithinath)
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-F2C811?style=flat-square&logo=github&logoColor=black)](https://github.com/bithiNath)
 
-![Python](https://img.shields.io/badge/Python-3.13.1-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-4.41.0x-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-3.0.1-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.24-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
+</div>
 
 ---
 
-### 🚀 About Me
-- 🔭 **Current Focus:** Transforming raw data into strategic insights using SQL, Python, and Power BI. Building a robust foundation for a career in Data Science.
-- 🎓 **Background:** MSS & BSS in Economics | CMA (Ongoing) — bridging the gap between economic theory and data-driven decision-making.
-- 💼 **Experience:** Former Senior Officer at Energypac Electronics, where I specialized in Banking, Treasury, Audit, and Costing.
-- 💡 **Interests:** I’m a curious problem-solver with a broad interest in Financial Modeling, Market Trends, Web Automation, and any domain where data tells a story.
-- 🌱 **Learning Journey:** Currently deep-diving into Advanced Machine Learning Algorithms and Statistical Modeling to predict the future, not just analyze the past.
-- 🎯 **Future Goals:** Advancing into Predictive Analytics and AI-driven decision making to solve multi-disciplinary challenges. I aim to build data products that simplify complex human behaviors and economic patterns..
-  
----
+## About
 
+I'm a former **Senior Officer at Energypac Electronics**, where I specialized in Banking, Treasury, Internal Audit, and Costing. After years of working at the intersection of financial operations and analytical problem-solving, I made a deliberate transition into **Data Science and Analytics** — bringing a practitioner's eye for what numbers actually mean in business contexts.
 
-### 📊 Featured Projects
-
-#### 🛒 E-Grocery Insights BD: Decoding Product Diversity and Savings in Online Groceries [(Your-Link-Here)]
-- **Tech:** Python (Selenium), Pandas, NumPy, Tableau.
-- **Impact:** Analyzed 7,197 product listings from Chaldal & Shwapno to uncover brand distribution, promotional savings, offer patterns, and price variance through data-driven analysis and Tableau visualizations.
-- **Outcome:** Developed an interactive Tableau Dashboard showcasing market-level trends and price variances across platforms.
-- **Explore:** [Detailed Graphs (Narrative Analysis)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Detailedcharts?publish=yes) | [Full Dashboard](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Dashboard)
-
-E-Grocery Insights: Decoding Pricing & SavingsTech Stack: Python (Selenium), Pandas, NumPy, Tableau.
-
-#### 📈 [Tech Industry Share Market Analysis](Your-Link-Here)
-- **Tech:** SQL, Power BI (In-Progress).
-- **Goal:** Developing a dashboard to track stock volatility and growth in the tech sector.
-
-#### 🌐 [Personal Portfolio & Web Projects](Your-Link-Here)
-🚧 **Status:** Under Maintenance.
-⏳ **Coming Soon:** Currently uploading my projects to GitHub Repositories .
-- Multiple responsive sites hosted on **Hostinger** showcasing HTML/CSS and WordPress skills.
+My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **CMA** qualification informs how I approach data: not just as patterns to visualize, but as evidence for decisions. I'm currently building toward **Predictive Analytics** and **ML-driven decision systems** that can model complex economic and behavioral patterns.
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://vercel.app" alt="Stats" height="150" />
-<img src="https://vercel.app" alt="Langs" height="150" />
-</p>
+## Technical Stack
+
+**Languages & Libraries**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+**BI & Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Environment & Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
+## Featured Projects
 
-## 📬 Contact
+### E-Grocery Insights BD — Decoding Product Diversity & Savings in Online Groceries
+> *Python · Selenium · Pandas · NumPy · Tableau*
 
-- **GitHub:** [@bithiNath](https://github.com/bithiNath)
-- **LinkedIn:** [Bithi Nath](https://linkedin.com/in/bithinath)
+Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading online grocery platforms — **Chaldal** and **Shwapno** — to surface market-level pricing and promotional intelligence.
+
+**Key findings:**
+- Shwapno has a larger catalogue; Chaldal leads in Non-Food SKUs (except Personal Care)
+- **Pran** and **ACI** dominate as top named brands on both platforms
+- Discounts cluster in **Non-Food** — Personal Care leads in free product availability
+- **Small, Standard-priced** products receive the most offers; Large products are nearly excluded
+- **Personal Care** shows the widest price gap between platforms
+
+**Deliverable:** An interactive Tableau dashboard revealing cross-platform trends and pricing gaps for consumer and market strategy use.
+
+[![Narrative Analysis](https://img.shields.io/badge/View-Narrative_Analysis-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Detailedcharts?publish=yes)
+[![Full Dashboard](https://img.shields.io/badge/View-Full_Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Dashboard)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/E-Grocery-Insights-BD)
 
 ---
-*"Turning Financial Data into Actionable Intelligence."*
+
+### Tech Industry Share Market Analysis *(In Progress)*
+> *SQL · Power BI*
+
+Building a dashboard to monitor **stock volatility**, growth trajectories, and sector-level signals across tech industry equities. Aimed at supporting investment-oriented data storytelling.
+
+---
+
+## Currently Learning
+
+- Advanced Machine Learning algorithms (regression, classification, clustering)
+- Statistical modeling for forecasting and inference
+- Feature engineering and model evaluation pipelines
+
+---
+
+## Background Snapshot
+
+| Domain | Detail |
+|---|---|
+| **Education** | MSS & BSS in Economics |
+| **Professional** | CMA (Ongoing) |
+| **Last Role** | Senior Officer — Finance & Accounts, Energypac Electronics *(2 Years)* |           
+| **Focus Area** | Data Science (Structured Roadmap) — Statistics · Python · ML · Analytics · Deployment |
+| **Interests** | Financial Modeling · Market Trends · Web Automation · Behavioral Economics |
+
+---
+
+## Areas of Interest
+
+I'm particularly drawn to problems where **economic reasoning meets messy real-world data** — whether that's consumer pricing behavior, financial risk signals, or operational inefficiencies hiding in ledger entries. If data tells a story about how people, markets, or institutions actually behave, I want to build the model that reads it.
+
+---
+
+<div align="center">
+
+*Open to collaboration on data analytics, financial modeling, and applied ML projects.*
+
+</div>
+
+
+
+
+<p align="center">Developed by <a href="https://github.com/bithiNath">@bithiNath</a> ⚡</p>
