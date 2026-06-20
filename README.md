@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 <br>
 
 ## About
@@ -21,7 +19,6 @@ I'm a former **Senior Officer at Energypac Electronics**, where I specialized in
 
 My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **CMA** qualification informs how I approach data: not just as patterns to visualize, but as evidence for decisions. I'm currently building toward **Predictive Analytics** and **ML-driven decision systems** that can model complex economic and behavioral patterns.
 
----
 
 <br>
 
@@ -52,7 +49,7 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 ![Notion](https://img.shields.io/badge/Notion-43B02A?style=flat-square&logo=notion&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
----
+
 
 <br>
 
@@ -114,8 +111,6 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 > 🚧 WordPress Repositories uploading — links coming soon.            
 
----
-
 <br>
 
 ## 🚀 Professional Experience
@@ -129,6 +124,8 @@ Started with raw HR data and built a complete analytics workflow from database t
 > **HR Operations Support (additional responsibility)** | *Jul 2024 – Jun 2025*
 - Processed monthly OT, allowances, incentives, and deductions for payroll management.
 - Prepared HR documents: appointment, promotion, transfer, and separation letters.
+  
+---
 
 > **Officer — Internal Audit & Compliance** | *May 2023 – Mar 2024*
 - Audited PR, PO, CS, VAT challans, and GRNs, **reducing errors by 80%**.
@@ -136,7 +133,7 @@ Started with raw HR data and built a complete analytics workflow from database t
 - Introduced training initiatives that **enhanced accounting accuracy by 85%**.
 - Supported payroll audits, credit recovery, and performed inventory audits at factory and central store.
 
----
+<br>
 
 ## 🛠️ Tools & Technologies
 
@@ -144,6 +141,7 @@ Started with raw HR data and built a complete analytics workflow from database t
 - **Financial Analysis:** Microsoft Excel (Advanced), Financial Modeling, Data Reconciliation
 - **Reporting:** PowerPoint, Dashboards, Word
 
+<br>
 
 ## Currently Learning
 
@@ -151,21 +149,19 @@ Started with raw HR data and built a complete analytics workflow from database t
 - Statistical modeling for forecasting and inference
 - Feature engineering and model evaluation pipelines
 
----
-
 <br>
 
 ## Background Snapshot
 
 | Domain | Detail |
 |---|---|
-| **Education** | MSS & BSS in Economics |
-| **Professional** | CMA (Ongoing) |
-| **Last Role** | Senior Officer — Finance & Accounts, Energypac Electronics *(2 Years)* |           
-| **Focus Area** | Data Science (Structured Roadmap) — Statistics · Python · ML · Analytics · Deployment |
+| **Education** | MSS & BSS in Economics (Noakhaili Science & Technology University)|
+| **Professional** | CMA - Ongoing (ICMAB) |
+| **Last Role** | Senior Officer — Finance & Accounts, Energypac Electronics |           
+| **Focus Area** | Data Science (Structured Roadmap) — Statistics · Python · SQL ·ML · Analytics · Deployment |
 | **Interests** | Financial Modeling · Market Trends · Web Automation · Behavioral Economics |
 
----
+<br> 
 
 ## Areas of Interest
 
@@ -173,13 +169,13 @@ I'm particularly drawn to problems where **economic reasoning meets messy real-w
 
 ---
 
+<br>
+
 <div align="center">
 
 *Open to collaboration on data analytics, financial modeling, and applied ML projects.*
 
 </div>
-
-
 
 
 <p align="center">Developed by <a href="https://github.com/bithiNath">@bithiNath</a> ⚡</p>
