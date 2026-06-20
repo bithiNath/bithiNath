@@ -79,7 +79,7 @@ Started with raw HR data and built a complete analytics workflow from database t
 📝 𝐒𝐐𝐋 → 12 business-question-driven queries (attrition, compensation, performance, diversity, attendance).
 📊 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 → Interactive HR dashboard
 
-[![GitHub Repo](https://github.com/bithiNath/WorkforceIQ.git)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/WorkforceIQ.git)
 
 
 ### RetailNexus - Unified Sales, Customer & Product Analytics Hub
@@ -87,7 +87,7 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 End-to-end data analytics project built on a retail sales dataset. Simulated a real-world business intelligence pipeline — starting from raw data cleaning with pandas, structured storage in PostgreSQL, and finally an interactive multi-page dashboard in Power BI.
 
-[![GitHub Repo](https://github.com/bithiNath/RetailNexus)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/RetailNexus)
 
 ---
 
