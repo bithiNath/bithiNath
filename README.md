@@ -75,9 +75,9 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 
 Started with raw HR data and built a complete analytics workflow from database to dashboard:
 
-🗄️  𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 → Structured data storage with 5 relational tables.
-📝 𝐒𝐐𝐋 → 12 business-question-driven queries (attrition, compensation, performance, diversity, attendance).
-📊 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 → Interactive HR dashboard
+- 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 → Structured data storage with 5 relational tables.
+- 𝐒𝐐𝐋 → 12 business-question-driven queries (attrition, compensation, performance, diversity, attendance).
+- 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 → Interactive HR dashboard
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/WorkforceIQ.git)
 
@@ -86,7 +86,8 @@ Started with raw HR data and built a complete analytics workflow from database t
 ### RetailNexus - Unified Sales, Customer & Product Analytics Hub
 > *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · Power BI*
 
-End-to-end data analytics project built on a retail sales dataset. Simulated a real-world business intelligence pipeline — starting from raw data cleaning with pandas, structured storage in PostgreSQL, and finally an interactive multi-page dashboard in Power BI.
+- End-to-end data analytics project built on a retail sales dataset.
+- Simulated a real-world business intelligence pipeline — starting from raw data cleaning with **pandas**, structured storage in **PostgreSQL**, and finally an interactive multi-page dashboard in **Power BI**.
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/RetailNexus)
 
@@ -96,14 +97,15 @@ End-to-end data analytics project built on a retail sales dataset. Simulated a r
 
 
 ### Web Development Projects
-> *HTML · CSS · WordPress · Hostinger*
-> 
+> *HTML · CSS · JavaScript · WordPress · Hostinger*
+
 > A collection of responsive websites built from scratch and via WordPress — currently being migrated to GitHub repositories.
 
 - Custom-built static sites using vanilla HTML & CSS
 - WordPress-based sites with custom layout & design using plugins
 - Few projects hosted on **Hostinger**
-> 🚧 Repositories uploading — links coming soon.            
+- 
+> 🚧 WordPress Repositories uploading — links coming soon.            
 
 
 ## Currently Learning
