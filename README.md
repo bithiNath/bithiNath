@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bithi Nath
-### Data Analyst · Finance & Audit Professional · Economist
+### Data Analyst · Ex-Finance & Audit Professional · Economist
 
 *Bridging rigorous financial expertise with modern data science to extract decisions from noise.*
 
