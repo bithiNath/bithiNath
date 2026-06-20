@@ -70,12 +70,29 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 
 ---
 
-### Tech Industry Share Market Analysis *(In Progress)*
-> *SQL · Power BI*
+𝐖𝐨𝐫𝐤𝐟𝐨𝐫𝐜𝐞𝐈𝐐: 𝐇𝐑 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 + 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
+> *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · 𝐏𝐨𝐰𝐞𝐫 bi*
 
-Building a dashboard to monitor **stock volatility**, growth trajectories, and sector-level signals across tech industry equities. Aimed at supporting investment-oriented data storytelling.
+Started with raw HR data and built a complete analytics workflow from database to dashboard:
+
+🗄️  𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 → Structured data storage with 5 relational tables.
+📝 𝐒𝐐𝐋 → 12 business-question-driven queries (attrition, compensation, performance, diversity, attendance).
+📊 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 → Interactive HR dashboard
+
+[![GitHub Repo](https://github.com/bithiNath/WorkforceIQ.git)
+
+
+### RetailNexus - Unified Sales, Customer & Product Analytics Hub
+> *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · Power BI*
+
+End-to-end data analytics project built on a retail sales dataset. Simulated a real-world business intelligence pipeline — starting from raw data cleaning with pandas, structured storage in PostgreSQL, and finally an interactive multi-page dashboard in Power BI.
+
+[![GitHub Repo](https://github.com/bithiNath/RetailNexus)
 
 ---
+
+
+
 
 ### Web Development Projects
 > *HTML · CSS · WordPress · Hostinger*
