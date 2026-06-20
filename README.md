@@ -47,8 +47,8 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-43B02A?style=flat-square&logo=notion&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
@@ -78,7 +78,7 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 
 ---
 
-𝐖𝐨𝐫𝐤𝐟𝐨𝐫𝐜𝐞𝐈𝐐: 𝐇𝐑 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 + 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
+### 𝐖𝐨𝐫𝐤𝐟𝐨𝐫𝐜𝐞𝐈𝐐: 𝐇𝐑 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 + 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
 > *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · 𝐏𝐨𝐰𝐞𝐫 BI*
 
 Started with raw HR data and built a complete analytics workflow from database to dashboard:
@@ -101,7 +101,6 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 ---
 
-
 ### Web Development Projects
 > *HTML · CSS · JavaScript · WordPress · Hostinger*
 
@@ -115,21 +114,23 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 > 🚧 WordPress Repositories uploading — links coming soon.            
 
+---
+
 <br>
 
 ## 🚀 Professional Experience
 
 ### **Energypac Electronics Limited** | Dhaka, Bangladesh
-**Senior Officer — Finance & Accounts** | *Apr 2024 – Jun 2025*
+> **Senior Officer — Finance & Accounts** | *Apr 2024 – Jun 2025*
 - **Banking & Treasury:** Prepared cash flow statements to monitor liquidity and optimize fund allocation. Disbursed salaries, prepared bank advices, RTGS instructions, and managed payment files. Performed bank reconciliations between SAP and bank statements for transactional accuracy.
 - **Financial Reporting:** Assisted CFO with key financial reports for board meetings — AR aging, inventory aging, budget vs. actuals.
 - **Costing:** Determined MRP and DP pricing through margin analysis and market trend evaluation. Assisted in stock clearance, gross profit margin, and selling price determination.
   
-  **HR Operations Support (additional responsibility)** | *Jul 2024 – Jun 2025*
+> **HR Operations Support (additional responsibility)** | *Jul 2024 – Jun 2025*
 - Processed monthly OT, allowances, incentives, and deductions for payroll management.
 - Prepared HR documents: appointment, promotion, transfer, and separation letters.
 
-**Officer — Internal Audit & Compliance** | *May 2023 – Mar 2024*
+> **Officer — Internal Audit & Compliance** | *May 2023 – Mar 2024*
 - Audited PR, PO, CS, VAT challans, and GRNs, **reducing errors by 80%**.
 - Audited OT, TA, DA, and incentive policies — resulting in **20% cost savings**.
 - Introduced training initiatives that **enhanced accounting accuracy by 85%**.
