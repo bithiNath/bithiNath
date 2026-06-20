@@ -81,6 +81,7 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/WorkforceIQ.git)
 
+---
 
 ### RetailNexus - Unified Sales, Customer & Product Analytics Hub
 > *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · Power BI*
