@@ -13,6 +13,8 @@
 
 ---
 
+<br>
+
 ## About
 
 I'm a former **Senior Officer at Energypac Electronics**, where I specialized in Banking, Treasury, Internal Audit, and Costing. After years of working at the intersection of financial operations and analytical problem-solving, I made a deliberate transition into **Data Science and Analytics** — bringing a practitioner's eye for what numbers actually mean in business contexts.
@@ -20,6 +22,8 @@ I'm a former **Senior Officer at Energypac Electronics**, where I specialized in
 My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **CMA** qualification informs how I approach data: not just as patterns to visualize, but as evidence for decisions. I'm currently building toward **Predictive Analytics** and **ML-driven decision systems** that can model complex economic and behavioral patterns.
 
 ---
+
+<br>
 
 ## Technical Stack
 
@@ -43,10 +47,14 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-43B02A?style=flat-square&logo=notion&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ---
+
+<br>
 
 ## Featured Projects
 
@@ -107,6 +115,34 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 > 🚧 WordPress Repositories uploading — links coming soon.            
 
+<br>
+
+## 🚀 Professional Experience
+
+### **Energypac Electronics Limited** | Dhaka, Bangladesh
+**Senior Officer — Finance & Accounts** | *Apr 2024 – Jun 2025*
+- **Banking & Treasury:** Prepared cash flow statements to monitor liquidity and optimize fund allocation. Disbursed salaries, prepared bank advices, RTGS instructions, and managed payment files. Performed bank reconciliations between SAP and bank statements for transactional accuracy.
+- **Financial Reporting:** Assisted CFO with key financial reports for board meetings — AR aging, inventory aging, budget vs. actuals.
+- **Costing:** Determined MRP and DP pricing through margin analysis and market trend evaluation. Assisted in stock clearance, gross profit margin, and selling price determination.
+  
+  **HR Operations Support (additional responsibility)** | *Jul 2024 – Jun 2025*
+- Processed monthly OT, allowances, incentives, and deductions for payroll management.
+- Prepared HR documents: appointment, promotion, transfer, and separation letters.
+
+**Officer — Internal Audit & Compliance** | *May 2023 – Mar 2024*
+- Audited PR, PO, CS, VAT challans, and GRNs, **reducing errors by 80%**.
+- Audited OT, TA, DA, and incentive policies — resulting in **20% cost savings**.
+- Introduced training initiatives that **enhanced accounting accuracy by 85%**.
+- Supported payroll audits, credit recovery, and performed inventory audits at factory and central store.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **ERP System:** SAP
+- **Financial Analysis:** Microsoft Excel (Advanced), Financial Modeling, Data Reconciliation
+- **Reporting:** PowerPoint, Dashboards, Word
+
 
 ## Currently Learning
 
@@ -115,6 +151,8 @@ Started with raw HR data and built a complete analytics workflow from database t
 - Feature engineering and model evaluation pipelines
 
 ---
+
+<br>
 
 ## Background Snapshot
 
