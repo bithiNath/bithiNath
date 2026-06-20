@@ -94,8 +94,6 @@ Started with raw HR data and built a complete analytics workflow from database t
 ---
 
 
-
-
 ### Web Development Projects
 > *HTML · CSS · JavaScript · WordPress · Hostinger*
 
@@ -104,7 +102,9 @@ Started with raw HR data and built a complete analytics workflow from database t
 - Custom-built static sites using vanilla HTML & CSS
 - WordPress-based sites with custom layout & design using plugins
 - Few projects hosted on **Hostinger**
-- 
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/frontend-web-showcase.git)
+
 > 🚧 WordPress Repositories uploading — links coming soon.            
 
 
