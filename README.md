@@ -71,7 +71,7 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 ---
 
 𝐖𝐨𝐫𝐤𝐟𝐨𝐫𝐜𝐞𝐈𝐐: 𝐇𝐑 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 + 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
-> *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · 𝐏𝐨𝐰𝐞𝐫 bi*
+> *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · 𝐏𝐨𝐰𝐞𝐫 BI*
 
 Started with raw HR data and built a complete analytics workflow from database to dashboard:
 
