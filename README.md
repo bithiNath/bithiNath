@@ -89,7 +89,7 @@ Started with raw HR data and built a complete analytics workflow from database t
 ---
 
 ### RetailNexus - Unified Sales, Customer & Product Analytics Hub
-> *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · Power BI*
+> *Pandas · 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · Power BI*
 
 - End-to-end data analytics project built on a retail sales dataset.
 - Simulated a real-world business intelligence pipeline — starting from raw data cleaning with **pandas**, structured storage in **PostgreSQL**, and finally an interactive multi-page dashboard in **Power BI**.
