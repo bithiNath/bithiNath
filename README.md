@@ -71,6 +71,7 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 | **Mobile Money Transaction Fraud Analysis** | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | [Repository](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) |
 
 
+<br>
 
 ### E-Grocery Insights BD — Decoding Product Diversity & Savings in Online Groceries
 > *Python · Selenium · Pandas · NumPy · Tableau*
@@ -113,16 +114,17 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/RetailNexus)
 
----
+<br>
 
-### Web Development Projects
-> *HTML · CSS · JavaScript · WordPress · Hostinger*
+## 🌐 Other Engineering & Web Projects
 
-> A collection of responsive websites built from scratch and via WordPress — currently being migrated to GitHub repositories.
+### frontend-web-showcase (4 Websites)
 
-- Custom-built static sites using vanilla HTML & CSS
-- WordPress-based sites with custom layout & design using plugins
-- Few projects hosted on **Hostinger**
+> *HTML · CSS · JavaScript · WordPress*
+
+- **Custom-built static sites using vanilla HTML & CSS** to practice layouts and responsive UI.
+- **Featured Projects:** `Travel Website Design` | `E-Commerce Website` | `Admin Dashboard` | `YouTube Interface Clone`
+
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/frontend-web-showcase.git)
 
