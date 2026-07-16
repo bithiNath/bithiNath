@@ -5,10 +5,9 @@
 
 *Bridging rigorous financial expertise with modern data science to extract decisions from noise.*
 
-[![Personal](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white)](https://bithinath.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bithinath)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-F2C811?style=flat-square&logo=github&logoColor=black)](https://github.com/bithiNath)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-673DE6?style=for-the-badge&logo=vercel&logoColor=white)](https://bithinath.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00A8CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bithinath)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-F2C811?style=for-the-badge&logo=github&logoColor=black)](https://github.com/bithiNath)
 </div>
 
 <br>
