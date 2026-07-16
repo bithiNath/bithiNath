@@ -6,7 +6,7 @@
 *Bridging rigorous financial expertise with modern data science to extract decisions from noise.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bithinath)
-[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath)
+[![Personal](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white)](https://bithinath.github.io/my-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-F2C811?style=flat-square&logo=github&logoColor=black)](https://github.com/bithiNath)
 
 </div>
