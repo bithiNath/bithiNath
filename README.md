@@ -29,7 +29,9 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -38,6 +40,8 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=flat-square&logoColor=white)
 
 **Platforms & Tools**
 
@@ -54,6 +58,19 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 <br>
 
 ## Featured Projects
+
+### 📊 Projects & Tool Stack Overview
+
+
+| Project Name | Primary Tools & Tech Stack | Key Deliverable / Focus | Link |
+| :--- | :--- | :--- | :---: |
+| **E-Grocery Insights BD** | Python, Selenium, Pandas, Numpy, Tableau | Web Scraping & Market Pricing Dashboard | [Repository](https://github.com/bithiNath/E-Grocery-Insights-BD) |
+| **WorkforceIQ: HR Analytics** | PostgreSQL, Power BI | HR Data Pipeline & Interactive Dashboard | [Repository](https://github.com/bithiNath/WorkforceIQ.git) |
+| **RetailNexus** | Pandas, PostgreSQL, Power BI | End-to-end BI pipeline transforming raw retail data into an executive analytics hub | [Repository](https://github.com/bithiNath/RetailNexus) |
+| **FinSight_Banking** | Pandas, PostgreSQL, GitHub Copilot, Power BI | AI-accelerated banking analytics pipeline driving regional and loan performance insights | [Repository](https://github.com/bithiNath/FinSight_Banking) |
+| **Mobile Money Transaction Fraud Analysis** | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | [Repository](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) |
+
+
 
 ### E-Grocery Insights BD — Decoding Product Diversity & Savings in Online Groceries
 > *Python · Selenium · Pandas · NumPy · Tableau*
