@@ -252,14 +252,6 @@ Custom-built static websites practicing layouts, responsive UI, and component st
 
 <br>
 
-## Currently Learning
-
-- Advanced Machine Learning algorithms (regression, classification, clustering)
-- Statistical modeling for forecasting and inference
-- Feature engineering and model evaluation pipelines
-
-<br>
-
 ## Background Snapshot
 
 | Domain | Detail |
