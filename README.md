@@ -23,22 +23,30 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 
 ## Technical Stack
 
-**Languages & Libraries**
+**Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-673DE6?style=flat-square&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-217346?style=flat-square&logo=postgresql&logoColor=white)
+
+**Web Technologies**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**Languages & Frameworks**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-007ACC?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 **BI & Visualization**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=flat-square&logoColor=white)
 
@@ -50,9 +58,16 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-43B02A?style=flat-square&logo=notion&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
+
+<br>
+
+## 🚀 Currently Working On
+
+* 📊 **DecisionFlow – E-commerce Analytics** — building a SQL-based business analytics solution and automating insights & reporting using Python, SQL, and Power BI.
+* 🧠 **Strengthening Advanced SQL Skills** — practicing complex queries, CTEs, window functions, subqueries, and solving business-oriented problems.
+* 🤖 **Learning Machine Learning** — building a strong foundation in ML concepts (regression, classification) and applying them through hands-on projects using scikit-learn.
 
 <br>
 
@@ -61,14 +76,13 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 ### 📊 Projects & Tool Stack Overview
 
 
-| Project Name | Primary Tools & Tech Stack | Key Deliverable / Focus | Link |
-| :--- | :--- | :--- | :---: |
-| **E-Grocery Insights BD** | Python, Selenium, Pandas, Numpy, Tableau | Web Scraping & Market Pricing Dashboard | [Repository](https://github.com/bithiNath/E-Grocery-Insights-BD) |
-| **WorkforceIQ: HR Analytics** | PostgreSQL, Power BI | HR Data Pipeline & Interactive Dashboard | [Repository](https://github.com/bithiNath/WorkforceIQ.git) |
-| **RetailNexus** | Pandas, PostgreSQL, Power BI | End-to-end BI pipeline transforming raw retail data into an executive analytics hub | [Repository](https://github.com/bithiNath/RetailNexus) |
-| **FinSight_Banking** | Pandas, PostgreSQL, GitHub Copilot, Power BI | AI-accelerated banking analytics pipeline driving regional and loan performance insights | [Repository](https://github.com/bithiNath/FinSight_Banking) |
-| **Mobile Money Transaction Fraud Analysis** | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | [Repository](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) |
-
+| Project Name & link| Completion Date | Primary Tools & Tech Stack | Key Deliverable / Focus |
+| :--- | :--- | :--- | :--- |
+| [E-Grocery Insights BD](https://github.com/bithiNath/E-Grocery-Insights-BD) |30-sep | Python, Selenium, Pandas, Numpy, Tableau | Web Scraping & Market Pricing Dashboard | 
+| [WorkforceIQ: HR Analytics](https://github.com/bithiNath/WorkforceIQ.git) | PostgreSQL, Power BI | HR Data Pipeline & Interactive Dashboard |
+| [RetailNexus](https://github.com/bithiNath/RetailNexus) | Pandas, PostgreSQL, Power BI | End-to-end BI pipeline transforming raw retail data into an executive analytics hub |
+| [FinSight_Banking](https://github.com/bithiNath/FinSight_Banking) | Pandas, PostgreSQL, GitHub Copilot, Power BI | AI-accelerated banking analytics pipeline driving regional and loan performance insights | 
+| [Mobile Money Transaction Fraud Analysis](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | 
 
 <br>
 
