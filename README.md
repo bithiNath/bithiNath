@@ -225,9 +225,6 @@ Custom-built static websites practicing layouts, responsive UI, and component st
 | **4** | **YouTube Interface Clone** | A pixel-perfect frontend clone replicating the iconic video-sharing platform's layout and sidebar mechanics. | HTML5, Semantic CSS | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/youtube_interface/) |
 
 
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/frontend-web-showcase.git)
-
-
 <br>
 
 ## 🚀 Professional Experience
