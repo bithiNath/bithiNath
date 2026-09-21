@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-673DE6?style=for-the-badge&logo=vercel&logoColor=white)](https://bithinath.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00A8CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bithinath)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-F2C811?style=for-the-badge&logo=github&logoColor=black)](https://github.com/bithiNath)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-F2C811?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bithiNath)
 </div>
 
 <br>
