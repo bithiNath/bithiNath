@@ -148,9 +148,6 @@ Built a full-stack banking analytics pipeline on a **2,150-customer** dataset �
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/FinSight_Banking)
 
----
-
-- DecisionFlow – E-commerce Analytics *(in progress)*
 
 ---
 
@@ -210,8 +207,6 @@ Trained and evaluated **five classification algorithms** on the Heart Failure Pr
 <br>
 
 ## 🌐 Frontend & Web Projects
-
-### Frontend Web Showcase (4 Websites)
 
 > *HTML · CSS · JavaScript · WordPress*
 
