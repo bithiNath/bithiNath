@@ -88,6 +88,8 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 
 <br>
 
+## 📊 Business Intelligence & Dashboard Projects
+
 ### E-Grocery Insights BD — Decoding Product Diversity & Savings in Online Groceries
 > *Python · Selenium · Pandas · NumPy · Tableau*
 
@@ -129,13 +131,89 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/RetailNexus)
 
+---
+
+### FinSight_Banking — AI-Accelerated Banking Analytics & Performance Insights
+> *Python · PostgreSQL · Power BI · DAX · GitHub Copilot · Claude AI*
+
+Built a full-stack banking analytics pipeline on a **2,150-customer** dataset — from raw data cleaning through SQL analysis to an interactive Power BI dashboard — with AI tools deliberately integrated at each stage to accelerate development.
+
+**Key findings:**
+- Designed **13 analytical SQL queries** in PostgreSQL, later re-implemented as DAX measures in Power BI
+- Surfaced **loan penetration rate**, credit score bands, and regional balance trends across customer segments
+- Tracked **new account growth** over a rolling 12-month window alongside transaction activity patterns
+- Used **GitHub Copilot** for Pandas cleaning & SQL logic, and **Claude AI** for DAX conversion where Copilot wasn't natively available — reflecting a practical, environment-aware AI workflow
+
+**Deliverable:** An interactive Power BI dashboard covering customer segmentation, loan ownership, account trends, and regional financial performance.
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/FinSight_Banking)
+
+---
+
+- DecisionFlow – E-commerce Analytics *(in progress)*
+
+---
+
+## 🧠 Statistical & ML Modeling Projects
+
+### Mobile Money Transaction Fraud Analysis — Statistical Detection in 10.48M Real-World-Structured Transactions
+> *Python · Pandas · SciPy · Statsmodels · Matplotlib · Seaborn*
+
+Applied descriptive statistics, outlier detection, hypothesis testing, and logistic regression on **10.48M mobile money transactions** (PaySim dataset) to identify patterns distinguishing fraud from legitimate activity.
+
+**Key findings:**
+- Outlier transactions are **~8.8x more likely** to be fraudulent than the overall population (IQR + Z-score analysis)
+- Fraudulent transactions are **~8.2x larger** on average than legitimate ones (t = 48.615, p < 0.001)
+- **TRANSFER** and **CASH_OUT** types carry the highest average amounts and are the primary fraud vectors (ANOVA, p < 0.001)
+- Logistic regression achieved **Pseudo R² = 0.518**, with amount and balance-based features as significant predictors
+
+**Deliverable:** A statistical fraud-detection analysis recommending real-time monitoring rules for TRANSFER/CASH_OUT transactions based on outlier flagging and balance-discrepancy checks.
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/MobileMoney_Fraud_Analysis)
+
+--- 
+
+### Insurance Charge Predictor — Predicting Medical Insurance Charges from Demographic & Lifestyle Data
+> *Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Streamlit*
+
+Built an end-to-end machine learning pipeline on **1,338 individual records** to estimate medical insurance charges based on age, BMI, smoking status, number of children, and region — deployed as an interactive prediction app.
+
+**Key findings:**
+- **Smoking status** is the strongest single predictor of insurance charges (Pearson r ≈ 0.79), followed by **age** and **BMI**
+- Compared **four regression models** — Linear, Ridge, Random Forest, and Gradient Boosting — via 5-fold cross-validation
+- **Gradient Boosting** (tuned with GridSearchCV) delivered the best performance: R² = 0.901, MAE ≈ 2,475
+- Binned age and BMI into health/life-stage categories to surface business-friendly cost patterns
+
+**Deliverable:** A Streamlit web app where users input personal details and instantly receive an estimated insurance charge.
+
+[![Live Demo](https://img.shields.io/badge/View-Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://insurance-charge-predictor-icp.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/insurance-charge-predictor)
+
+---
+
+### Heart Disease Prediction App — Assessing Heart Disease Risk from Clinical Parameters
+> *Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Streamlit*
+
+Trained and evaluated **five classification algorithms** on the Heart Failure Prediction dataset to identify patients at risk of heart disease — deployed as a live, interactive risk-assessment app.
+
+**Key findings:**
+- **Logistic Regression** achieved the best balance of performance among all models: 86% accuracy, 0.87 F1-score
+- Compared against KNN, SVM, Naive Bayes, and Decision Tree (80% accuracy)
+- Imputed biologically invalid zero-values in blood pressure and cholesterol using median substitution
+- Full preprocessing pipeline: label/one-hot encoding, 80/20 train-test split, feature scaling via StandardScaler
+
+**Deliverable:** A live Streamlit app that returns a **Low Risk** or **High Risk** prediction from user-entered clinical data.
+
+[![Live Demo](https://img.shields.io/badge/View-Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://heart-disease-prediction-app-hd.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/heart-disease-prediction-streamlit)
+
 <br>
 
-## 🌐 Other Engineering & Web Projects
+## 🌐 Frontend & Web Projects
 
-### frontend-web-showcase (4 Websites)
+### Frontend Web Showcase (4 Websites)
 
-> *HTML · CSS · JavaScript · WordPress*
+> *HTML · CSS · JavaScript*
 
 - **Custom-built static sites using vanilla HTML & CSS** to practice layouts and responsive UI.
 - **Featured Projects:** `Travel Website Design` | `E-Commerce Website` | `Admin Dashboard` | `YouTube Interface Clone`
@@ -143,7 +221,6 @@ Started with raw HR data and built a complete analytics workflow from database t
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/frontend-web-showcase.git)
 
-> 🚧 WordPress Repositories uploading — links coming soon.            
 
 <br>
 
