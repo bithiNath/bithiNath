@@ -88,17 +88,59 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 
 | Project Name & link| Completion Date | Primary Tools & Tech Stack | Key Deliverable / Focus |
 | :--- | :--- | :--- | :--- |
-| [E-Grocery Insights BD](https://github.com/bithiNath/E-Grocery-Insights-BD) | May 2026 | Python, Selenium, Pandas, NumPy, Tableau | Web Scraping & Market Pricing Dashboard | 
-| [RetailNexus](https://github.com/bithiNath/RetailNexus) | May 2026 | Pandas, PostgreSQL, Power BI | End-to-end BI pipeline transforming raw retail data into an executive analytics hub |
-| [WorkforceIQ: HR Analytics](https://github.com/bithiNath/WorkforceIQ.git) | Jun 2026 | PostgreSQL, Power BI | HR Data Pipeline & Interactive Dashboard |
-| [FinSight_Banking](https://github.com/bithiNath/FinSight_Banking) | Jun 2026 | Pandas, PostgreSQL, GitHub Copilot, Power BI | AI-accelerated banking analytics pipeline driving regional and loan performance insights | 
-| [Mobile Money Transaction Fraud Analysis](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) | Jul 2026 | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | 
-|[insurance-charge-predictor](https://github.com/bithiNath/insurance-charge-predictor) | Aug 2026 | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit | Regression-based ML app predicting medical insurance charges (R² 0.901) with Gradient Boosting, deployed via Streamlit |
 |[heart-disease-prediction-streamlit](https://github.com/bithiNath/heart-disease-prediction-streamlit) | Aug 2026 | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit | Logistic Regression model (86% accuracy) predicting heart disease risk from clinical data, deployed as an interactive Streamlit app |
+|[insurance-charge-predictor](https://github.com/bithiNath/insurance-charge-predictor) | Aug 2026 | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit | Regression-based ML app predicting medical insurance charges (R² 0.901) with Gradient Boosting, deployed via Streamlit |
+| [Mobile Money Transaction Fraud Analysis](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) | Jul 2026 | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | 
+| [FinSight_Banking](https://github.com/bithiNath/FinSight_Banking) | Jun 2026 | Pandas, PostgreSQL, GitHub Copilot, Power BI | AI-accelerated banking analytics pipeline driving regional and loan performance insights | 
+| [WorkforceIQ: HR Analytics](https://github.com/bithiNath/WorkforceIQ.git) | Jun 2026 | PostgreSQL, Power BI | HR Data Pipeline & Interactive Dashboard |
+| [RetailNexus](https://github.com/bithiNath/RetailNexus) | May 2026 | Pandas, PostgreSQL, Power BI | End-to-end BI pipeline transforming raw retail data into an executive analytics hub |
+| [E-Grocery Insights BD](https://github.com/bithiNath/E-Grocery-Insights-BD) | May 2026 | Python, Selenium, Pandas, NumPy, Tableau | Web Scraping & Market Pricing Dashboard | 
 
 <br>
 
 ## 📊 Business Intelligence & Dashboard Projects
+
+### FinSight_Banking — AI-Accelerated Banking Analytics & Performance Insights
+> *Python · PostgreSQL · Power BI · DAX · GitHub Copilot · Claude AI*
+
+Built a full-stack banking analytics pipeline on a **2,150-customer** dataset — from raw data cleaning through SQL analysis to an interactive Power BI dashboard — with AI tools deliberately integrated at each stage to accelerate development.
+
+**Key findings:**
+- Designed **13 analytical SQL queries** in PostgreSQL, later re-implemented as DAX measures in Power BI
+- Surfaced **loan penetration rate**, credit score bands, and regional balance trends across customer segments
+- Tracked **new account growth** over a rolling 12-month window alongside transaction activity patterns
+- Used **GitHub Copilot** for Pandas cleaning & SQL logic, and **Claude AI** for DAX conversion where Copilot wasn't natively available — reflecting a practical, environment-aware AI workflow
+
+**Deliverable:** An interactive Power BI dashboard covering customer segmentation, loan ownership, account trends, and regional financial performance.
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/FinSight_Banking)
+
+---
+
+### 𝐖𝐨𝐫𝐤𝐟𝐨𝐫𝐜𝐞𝐈𝐐: 𝐇𝐑 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 + 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
+> *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · 𝐏𝐨𝐰𝐞𝐫 BI*
+
+Started with raw HR data and built a complete analytics workflow from database to dashboard:
+
+- 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 → Structured data storage with 5 relational tables.
+- 𝐒𝐐𝐋 → 12 business-question-driven queries (attrition, compensation, performance, diversity, attendance).
+- 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 → Interactive HR dashboard
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/WorkforceIQ.git)
+
+---
+
+
+### RetailNexus - Unified Sales, Customer & Product Analytics Hub
+> *Pandas · 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · Power BI*
+
+- End-to-end data analytics project built on a retail sales dataset.
+- Simulated a real-world business intelligence pipeline — starting from raw data cleaning with **pandas**, structured storage in **PostgreSQL**, and finally an interactive multi-page dashboard in **Power BI**.
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/RetailNexus)
+
+---
+
 
 ### E-Grocery Insights BD — Decoding Product Diversity & Savings in Online Groceries
 > *Python · Selenium · Pandas · NumPy · Tableau*
@@ -118,67 +160,28 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 [![Narrative Analysis](https://img.shields.io/badge/View-Narrative_Analysis-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Detailedcharts?publish=yes)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/E-Grocery-Insights-BD)
 
----
-
-### 𝐖𝐨𝐫𝐤𝐟𝐨𝐫𝐜𝐞𝐈𝐐: 𝐇𝐑 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 + 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈)
-> *𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · 𝐏𝐨𝐰𝐞𝐫 BI*
-
-Started with raw HR data and built a complete analytics workflow from database to dashboard:
-
-- 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 → Structured data storage with 5 relational tables.
-- 𝐒𝐐𝐋 → 12 business-question-driven queries (attrition, compensation, performance, diversity, attendance).
-- 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 → Interactive HR dashboard
-
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/WorkforceIQ.git)
-
----
-
-### RetailNexus - Unified Sales, Customer & Product Analytics Hub
-> *Pandas · 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 · Power BI*
-
-- End-to-end data analytics project built on a retail sales dataset.
-- Simulated a real-world business intelligence pipeline — starting from raw data cleaning with **pandas**, structured storage in **PostgreSQL**, and finally an interactive multi-page dashboard in **Power BI**.
-
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/RetailNexus)
-
----
-
-### FinSight_Banking — AI-Accelerated Banking Analytics & Performance Insights
-> *Python · PostgreSQL · Power BI · DAX · GitHub Copilot · Claude AI*
-
-Built a full-stack banking analytics pipeline on a **2,150-customer** dataset — from raw data cleaning through SQL analysis to an interactive Power BI dashboard — with AI tools deliberately integrated at each stage to accelerate development.
-
-**Key findings:**
-- Designed **13 analytical SQL queries** in PostgreSQL, later re-implemented as DAX measures in Power BI
-- Surfaced **loan penetration rate**, credit score bands, and regional balance trends across customer segments
-- Tracked **new account growth** over a rolling 12-month window alongside transaction activity patterns
-- Used **GitHub Copilot** for Pandas cleaning & SQL logic, and **Claude AI** for DAX conversion where Copilot wasn't natively available — reflecting a practical, environment-aware AI workflow
-
-**Deliverable:** An interactive Power BI dashboard covering customer segmentation, loan ownership, account trends, and regional financial performance.
-
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/FinSight_Banking)
-
-
----
+<br>
 
 ## 🧠 Statistical & ML Modeling Projects
 
-### Mobile Money Transaction Fraud Analysis — Statistical Detection in 10.48M Real-World-Structured Transactions
-> *Python · Pandas · SciPy · Statsmodels · Matplotlib · Seaborn*
+### Heart Disease Prediction App — Assessing Heart Disease Risk from Clinical Parameters
+> *Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Streamlit*
 
-Applied descriptive statistics, outlier detection, hypothesis testing, and logistic regression on **10.48M mobile money transactions** (PaySim dataset) to identify patterns distinguishing fraud from legitimate activity.
+Trained and evaluated **five classification algorithms** on the Heart Failure Prediction dataset to identify patients at risk of heart disease — deployed as a live, interactive risk-assessment app.
 
 **Key findings:**
-- Outlier transactions are **~8.8x more likely** to be fraudulent than the overall population (IQR + Z-score analysis)
-- Fraudulent transactions are **~8.2x larger** on average than legitimate ones (t = 48.615, p < 0.001)
-- **TRANSFER** and **CASH_OUT** types carry the highest average amounts and are the primary fraud vectors (ANOVA, p < 0.001)
-- Logistic regression achieved **Pseudo R² = 0.518**, with amount and balance-based features as significant predictors
+- **Logistic Regression** achieved the best balance of performance among all models: 86% accuracy, 0.87 F1-score
+- Compared against KNN, SVM, Naive Bayes, and Decision Tree (80% accuracy)
+- Imputed biologically invalid zero-values in blood pressure and cholesterol using median substitution
+- Full preprocessing pipeline: label/one-hot encoding, 80/20 train-test split, feature scaling via StandardScaler
 
-**Deliverable:** A statistical fraud-detection analysis recommending real-time monitoring rules for TRANSFER/CASH_OUT transactions based on outlier flagging and balance-discrepancy checks.
+**Deliverable:** A live Streamlit app that returns a **Low Risk** or **High Risk** prediction from user-entered clinical data.
 
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/MobileMoney_Fraud_Analysis)
+[![Live Demo](https://img.shields.io/badge/View-Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://heart-disease-prediction-app-hd.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/heart-disease-prediction-streamlit)
 
---- 
+---
+
 
 ### Insurance Charge Predictor — Predicting Medical Insurance Charges from Demographic & Lifestyle Data
 > *Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Streamlit*
@@ -198,21 +201,20 @@ Built an end-to-end machine learning pipeline on **1,338 individual records** to
 
 ---
 
-### Heart Disease Prediction App — Assessing Heart Disease Risk from Clinical Parameters
-> *Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Streamlit*
+### Mobile Money Transaction Fraud Analysis — Statistical Detection in 10.48M Real-World-Structured Transactions
+> *Python · Pandas · SciPy · Statsmodels · Matplotlib · Seaborn*
 
-Trained and evaluated **five classification algorithms** on the Heart Failure Prediction dataset to identify patients at risk of heart disease — deployed as a live, interactive risk-assessment app.
+Applied descriptive statistics, outlier detection, hypothesis testing, and logistic regression on **10.48M mobile money transactions** (PaySim dataset) to identify patterns distinguishing fraud from legitimate activity.
 
 **Key findings:**
-- **Logistic Regression** achieved the best balance of performance among all models: 86% accuracy, 0.87 F1-score
-- Compared against KNN, SVM, Naive Bayes, and Decision Tree (80% accuracy)
-- Imputed biologically invalid zero-values in blood pressure and cholesterol using median substitution
-- Full preprocessing pipeline: label/one-hot encoding, 80/20 train-test split, feature scaling via StandardScaler
+- Outlier transactions are **~8.8x more likely** to be fraudulent than the overall population (IQR + Z-score analysis)
+- Fraudulent transactions are **~8.2x larger** on average than legitimate ones (t = 48.615, p < 0.001)
+- **TRANSFER** and **CASH_OUT** types carry the highest average amounts and are the primary fraud vectors (ANOVA, p < 0.001)
+- Logistic regression achieved **Pseudo R² = 0.518**, with amount and balance-based features as significant predictors
 
-**Deliverable:** A live Streamlit app that returns a **Low Risk** or **High Risk** prediction from user-entered clinical data.
+**Deliverable:** A statistical fraud-detection analysis recommending real-time monitoring rules for TRANSFER/CASH_OUT transactions based on outlier flagging and balance-discrepancy checks.
 
-[![Live Demo](https://img.shields.io/badge/View-Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://heart-disease-prediction-app-hd.streamlit.app/)
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/heart-disease-prediction-streamlit)
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/MobileMoney_Fraud_Analysis)
 
 <br>
 
