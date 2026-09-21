@@ -19,47 +19,57 @@ I'm a former **Senior Officer at Energypac Electronics**, where I specialized in
 My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **CMA** qualification informs how I approach data: not just as patterns to visualize, but as evidence for decisions. I'm currently building toward **Predictive Analytics** and **ML-driven decision systems** that can model complex economic and behavioral patterns.
 
 
-<br>
-
 ## Technical Stack
 
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-673DE6?style=flat-square&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-217346?style=flat-square&logo=postgresql&logoColor=white)
-
-**Web Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-**Languages & Frameworks**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-007ACC?style=flat-square&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=flat-square&logoColor=white)
-
-**Platforms & Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-43B02A?style=flat-square&logo=notion&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
-
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-673DE6?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-217346?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>Web</strong></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>Data & ML</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-007ACC?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>BI & Viz</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-5A9BD5?style=flat-square&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-43B02A?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
+</td>
+</tr>
+</table>
 
 <br>
 
