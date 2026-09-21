@@ -78,11 +78,13 @@ My academic foundation in **Economics** (MSS & BSS) combined with an ongoing **C
 
 | Project Name & link| Completion Date | Primary Tools & Tech Stack | Key Deliverable / Focus |
 | :--- | :--- | :--- | :--- |
-| [E-Grocery Insights BD](https://github.com/bithiNath/E-Grocery-Insights-BD) |30-sep | Python, Selenium, Pandas, Numpy, Tableau | Web Scraping & Market Pricing Dashboard | 
-| [WorkforceIQ: HR Analytics](https://github.com/bithiNath/WorkforceIQ.git) | PostgreSQL, Power BI | HR Data Pipeline & Interactive Dashboard |
-| [RetailNexus](https://github.com/bithiNath/RetailNexus) | Pandas, PostgreSQL, Power BI | End-to-end BI pipeline transforming raw retail data into an executive analytics hub |
-| [FinSight_Banking](https://github.com/bithiNath/FinSight_Banking) | Pandas, PostgreSQL, GitHub Copilot, Power BI | AI-accelerated banking analytics pipeline driving regional and loan performance insights | 
-| [Mobile Money Transaction Fraud Analysis](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | 
+| [E-Grocery Insights BD](https://github.com/bithiNath/E-Grocery-Insights-BD) | May 2026 | Python, Selenium, Pandas, NumPy, Tableau | Web Scraping & Market Pricing Dashboard | 
+| [RetailNexus](https://github.com/bithiNath/RetailNexus) | May 2026 | Pandas, PostgreSQL, Power BI | End-to-end BI pipeline transforming raw retail data into an executive analytics hub |
+| [WorkforceIQ: HR Analytics](https://github.com/bithiNath/WorkforceIQ.git) | Jun 2026 | PostgreSQL, Power BI | HR Data Pipeline & Interactive Dashboard |
+| [FinSight_Banking](https://github.com/bithiNath/FinSight_Banking) | Jun 2026 | Pandas, PostgreSQL, GitHub Copilot, Power BI | AI-accelerated banking analytics pipeline driving regional and loan performance insights | 
+| [Mobile Money Transaction Fraud Analysis](https://github.com/bithiNath/MobileMoney_Fraud_Analysis) | Jul 2026 | Pandas, SciPy, Statsmodels, Matplotlib, Seaborn | Statistical fraud modeling using hypothesis testing and logistic regression. | 
+|[insurance-charge-predictor](https://github.com/bithiNath/insurance-charge-predictor) | Aug 2026 | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit | Regression-based ML app predicting medical insurance charges (R² 0.901) with Gradient Boosting, deployed via Streamlit |
+|[heart-disease-prediction-streamlit](https://github.com/bithiNath/heart-disease-prediction-streamlit) | Aug 2026 | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit | Logistic Regression model (86% accuracy) predicting heart disease risk from clinical data, deployed as an interactive Streamlit app |
 
 <br>
 
