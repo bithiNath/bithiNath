@@ -104,8 +104,8 @@ Scraped and analyzed **7,197 product listings** from two of Bangladesh's leading
 
 **Deliverable:** An interactive Tableau dashboard revealing cross-platform trends and pricing gaps for consumer and market strategy use.
 
-[![Narrative Analysis](https://img.shields.io/badge/View-Narrative_Analysis-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Detailedcharts?publish=yes)
 [![Full Dashboard](https://img.shields.io/badge/View-Full_Dashboard-F05032?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Dashboard)
+[![Narrative Analysis](https://img.shields.io/badge/View-Narrative_Analysis-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bithi.nath/viz/visualization_1_17772762990980/Detailedcharts?publish=yes)
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/E-Grocery-Insights-BD)
 
 ---
@@ -213,10 +213,16 @@ Trained and evaluated **five classification algorithms** on the Heart Failure Pr
 
 ### Frontend Web Showcase (4 Websites)
 
-> *HTML · CSS · JavaScript*
+> *HTML · CSS · JavaScript · WordPress*
 
-- **Custom-built static sites using vanilla HTML & CSS** to practice layouts and responsive UI.
-- **Featured Projects:** `Travel Website Design` | `E-Commerce Website` | `Admin Dashboard` | `YouTube Interface Clone`
+Custom-built static websites practicing layouts, responsive UI, and component structuring across different real-world website types.
+
+| # | Project Name | Description | Core Tech Stack | Live Preview |
+| :-: | :--- | :--- | :--- | :--- |
+| **1** | **Travel Website Design** | A modern landing page for a travel agency featuring beautiful hero sections and destination grids. | HTML5, CSS3, Flexbox | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/travel-website-design/) |
+| **2** | **E-Commerce Website** | An online shopping storefront layout complete with product listing displays and navigation. | HTML5, CSS Grid, Media Queries | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/ecommerce-website/) |
+| **3** | **Admin Dashboard** | A static analytics panel layout designed to practice grid positioning, data card UI design, and data table structuring. | HTML5, Advanced CSS, JavaScript | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/responsive-admin-dashboard/) |
+| **4** | **YouTube Interface Clone** | A pixel-perfect frontend clone replicating the iconic video-sharing platform's layout and sidebar mechanics. | HTML5, Semantic CSS | [View Live Demo](https://bithinath.github.io/frontend-web-showcase/youtube_interface/) |
 
 
 [![GitHub Repo](https://img.shields.io/badge/View-Repository-43B02A?style=flat-square&logo=github&logoColor=white)](https://github.com/bithiNath/frontend-web-showcase.git)
